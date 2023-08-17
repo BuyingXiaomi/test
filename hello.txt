@@ -6,3 +6,6 @@ would it be happy ?
 would amend action ?
 
 would it show in a new branch ?
+
+
+on ,sooner you are in main branch ,so you can see changes in main .now there is clear.
