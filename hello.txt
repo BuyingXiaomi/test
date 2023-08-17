@@ -6,3 +6,5 @@ would it be happy ?
 would amend action ?
 would it show in a new branch ?
 now this  change should be in main.
+
+why this words"now this  change should be in main." show here .
